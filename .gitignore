@@ -1,0 +1,13 @@
+airflow_home/
+airflow_logs/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.db
+*.sqlite
+*.log
+standalone_admin_password.txt
+docker-compose.backup
+*.zip

@@ -1,0 +1,10 @@
+{
+  "prediction_month": "2024-03",
+  "as_of_date": "2025-12-01",
+  "analysis_type": "retrospective_monitoring",
+  "total_predictions": 511,
+  "known_outcomes": 511,
+  "average_risk_score": 0.34343980010898884,
+  "actual_default_rate": 0.3287671232876712,
+  "roc_auc": 0.7377655143690128
+}
